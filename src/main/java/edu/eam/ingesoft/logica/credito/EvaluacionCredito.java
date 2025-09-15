@@ -145,6 +145,7 @@ public class EvaluacionCredito {
         return valorCreditoSolicitado;
     }
     
+
     /**
      * Establece el valor del crédito solicitado.
      * @param valorCreditoSolicitado Monto del crédito en pesos
